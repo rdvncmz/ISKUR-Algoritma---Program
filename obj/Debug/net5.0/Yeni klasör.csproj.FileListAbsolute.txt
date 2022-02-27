@@ -1,0 +1,16 @@
+C:\Users\ridva\Desktop\Yeni klasör\bin\Debug\net5.0\Yeni klasör.exe
+C:\Users\ridva\Desktop\Yeni klasör\bin\Debug\net5.0\Yeni klasör.deps.json
+C:\Users\ridva\Desktop\Yeni klasör\bin\Debug\net5.0\Yeni klasör.runtimeconfig.json
+C:\Users\ridva\Desktop\Yeni klasör\bin\Debug\net5.0\Yeni klasör.runtimeconfig.dev.json
+C:\Users\ridva\Desktop\Yeni klasör\bin\Debug\net5.0\Yeni klasör.dll
+C:\Users\ridva\Desktop\Yeni klasör\bin\Debug\net5.0\Yeni klasör.pdb
+C:\Users\ridva\Desktop\Yeni klasör\obj\Debug\net5.0\Yeni klasör.csproj.AssemblyReference.cache
+C:\Users\ridva\Desktop\Yeni klasör\obj\Debug\net5.0\Yeni klasör.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ridva\Desktop\Yeni klasör\obj\Debug\net5.0\Yeni klasör.AssemblyInfoInputs.cache
+C:\Users\ridva\Desktop\Yeni klasör\obj\Debug\net5.0\Yeni klasör.AssemblyInfo.cs
+C:\Users\ridva\Desktop\Yeni klasör\obj\Debug\net5.0\Yeni klasör.csproj.CoreCompileInputs.cache
+C:\Users\ridva\Desktop\Yeni klasör\obj\Debug\net5.0\Yeni klasör.dll
+C:\Users\ridva\Desktop\Yeni klasör\obj\Debug\net5.0\refint\Yeni klasör.dll
+C:\Users\ridva\Desktop\Yeni klasör\obj\Debug\net5.0\Yeni klasör.pdb
+C:\Users\ridva\Desktop\Yeni klasör\obj\Debug\net5.0\Yeni klasör.genruntimeconfig.cache
+C:\Users\ridva\Desktop\Yeni klasör\obj\Debug\net5.0\ref\Yeni klasör.dll
